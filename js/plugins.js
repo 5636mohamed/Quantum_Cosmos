@@ -126,7 +126,7 @@ start_btn[2].onclick = ()=>{
     questions = [
         {
         numb: 1,
-        question: "How many layers in this quantum circuit?" + "<img src='images\/\1_layer_circuit.png'>",
+        question: "How many layers in this quantum circuit?" + "<img src='images\/1_layer_circuit.png'>",
         answer: "1",
         options: [
           "5",
@@ -137,7 +137,7 @@ start_btn[2].onclick = ()=>{
       },
         {
         numb: 2,
-        question: "Is qubit[0] in Entelgement with qubit[2]?" + "<img src='images\/\Entelgement.jpg'>",
+        question: "Is qubit[0] in Entelgement with qubit[2]?" + "<img src='images\/Entelgement.jpg'>",
         answer: "Yes",
         options: [
           "Yes",
@@ -148,13 +148,13 @@ start_btn[2].onclick = ()=>{
       },
         {
         numb: 3,
-        question: "What are the correct probabilities about qubits's state?"+"<img src='images\/\probabilities.jpg'>",
+        question: "What are the correct probabilities about qubits's state?"+"<img src='images\/probabilities.jpg'>",
         answer: "3",
         options: [
-            "1"+"<img src='images\/\question3_2.png'>",
-            "2"+"<img src='images\/\question3_4.png'>",
-            "3"+"<img src='images\/\question3_1.png'>",
-            "4"+"<img src='images\/\question3_3.png'>"
+            "1"+"<img src='images\/question3_2.png'>",
+            "2"+"<img src='images\/question3_4.png'>",
+            "3"+"<img src='images\/question3_1.png'>",
+            "4"+"<img src='images\/question3_3.png'>"
         ]
       }
     ];
