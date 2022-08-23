@@ -11,9 +11,11 @@ const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const scriptTag = document.querySelectorAll("script");
 let questions;
+let videoLink = document. querySelector("iframe");
 // if startQuiz button clicked
 start_btn[0].onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
+    videoLink.src = "https://www.youtube.com/embed/a1NZC5rqQD8";
     questions = [
         {
         numb: 1,
@@ -74,6 +76,7 @@ start_btn[0].onclick = ()=>{
 }
 start_btn[1].onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
+    videoLink.src = "https://www.youtube.com/embed/tBnWG_95F9c";
     questions = [
         {
         numb: 1,
@@ -123,6 +126,7 @@ start_btn[1].onclick = ()=>{
 }
 start_btn[2].onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
+    videoLink.src = "https://www.youtube.com/embed/EdJ7RoWcU48";
     questions = [
         {
         numb: 1,

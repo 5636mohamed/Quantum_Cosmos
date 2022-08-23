@@ -91,6 +91,7 @@ body{
     opacity: 0;
     pointer-events: none;
     transition: all 0.3s ease;
+    overflow-y: scroll;
 }
 
 .info_box .info-title{
@@ -139,6 +140,10 @@ body{
     border-radius: 5px;
     border: 1px solid #007bff;
     transition: all 0.3s ease;
+}
+
+.info_box iframe{
+    width: 100%;
 }
 
 .quiz_box{
