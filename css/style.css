@@ -35,8 +35,6 @@ body{
     gap: 2vw;
 }
 .start_btn button{
-    max-width: 20vw;
-    min-width: 10vw;
     font-size: 25px;
     font-weight: 500;
     color:whitesmoke;
@@ -85,7 +83,8 @@ body{
 } */
 
 .info_box{
-    width: 540px;
+    height: 100%;
+    width: 100%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -143,7 +142,7 @@ body{
 }
 
 .quiz_box{
-    width: 550px;
+    width: 100%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
