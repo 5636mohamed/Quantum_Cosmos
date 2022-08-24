@@ -83,7 +83,6 @@ body{
 } */
 
 .info_box{
-    height: 100%;
     width: 100%;
     background: #fff;
     border-radius: 5px;
@@ -92,6 +91,9 @@ body{
     pointer-events: none;
     transition: all 0.3s ease;
     overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    padding-top: 23em;
 }
 
 .info_box .info-title{
