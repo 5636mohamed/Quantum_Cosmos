@@ -28,8 +28,21 @@ In the first level called Beginner, the user will have to solve a set of questio
 <!-- Link to your Git repository with the submission as per requirements. -->
 [Quantum Cosmos](https://github.com/5636mohamed/Quantum_Cosmos)
 
+# How to play Quantum Cosmos?
+
+Quantum Cosmos is a website that has been designed to help people learn and know more about quantum computing from zero to hero. Additionally, this website helps students not only to learn quantum topics, but it will also help us apply these concepts in small challenges that test how much they have realised quantum facts. The first step to playing this game is to choose the level at which you want to play. Then, you will see a screen that is filled with the questions and answers and has a video that the student must watch first to learn about quantum facts. After seeing this video, the student will go to the next page, which has a question. This question tests the student about the topics of the video. Finally, you will get a score of how many right answers you have achieved in this level. The same procedures are also applicable for other levels.
+
+
+
+# Laws of Quantum Cosmos:
+
+Firstly, you should see the video that is a preparation stage for the test. Second, the question is only active for 15 seconds. If you answer correctly, you will gain a point. If you don’t answer the question correctly, it will be time-off and you won’t gain points. The same action will happen if you don’t answer correctly.
+
+
+
 #  Other material 📝
 
 1. Pitch deck [Quantum Cosmos (Pitch deck).pdf](https://github.com/uiafm/Humans-vs-Quantum-Computers---IBM/files/9396173/Quantum.Cosmos.Pitch.deck.pdf)
 
 2. Website Prototype
+1. website UI [Quantum_Cosmos](https://drive.google.com/file/d/1-dQhPf0bL9esafl-uS7z3EZVHdjcXnRl/view?usp=sharing)
