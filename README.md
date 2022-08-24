@@ -44,5 +44,4 @@ Firstly, you should see the video that is a preparation stage for the test. Seco
 
 1. Pitch deck [Quantum Cosmos (Pitch deck).pdf](https://github.com/uiafm/Humans-vs-Quantum-Computers---IBM/files/9396173/Quantum.Cosmos.Pitch.deck.pdf)
 
-2. Website Prototype
-1. website UI [Quantum_Cosmos](https://drive.google.com/file/d/1-dQhPf0bL9esafl-uS7z3EZVHdjcXnRl/view?usp=sharing)
+2. website UI [Quantum_Cosmos](https://drive.google.com/file/d/1-dQhPf0bL9esafl-uS7z3EZVHdjcXnRl/view?usp=sharing)
